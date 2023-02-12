@@ -6,6 +6,14 @@ This repo contains an analysis of UK Open Data about Electricity Consumption per
 
 ## Scraping
 
+The scraping of the UK Open Data is done using the following libraries
+
+- *requests*
+- *BeautifulSoup4*
+- *Pandas*
+
+To execute the scraping use the code execute_scraper.py (this requires to have a folder named data in the main directory)
+
 ## Data Transforming to Vis
 
 ## Visualization
